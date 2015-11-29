@@ -1,5 +1,9 @@
 # my-number-kun
 
+擬似マイナンバージェネレータ
+
+my-number-kun.herokuapp.com
+
 ```
 $ bundle install
 ```
