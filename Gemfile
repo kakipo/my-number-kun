@@ -11,3 +11,5 @@ group :development do
   gem 'foreman'
   gem 'heroku'
 end
+
+gem 'tsubaki'
