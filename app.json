@@ -5,8 +5,8 @@
     "Ruby",
     "Sinatra"
   ],
-  "website": "https://github.com/tknzk/my-number-kun",
-  "repository": "https://github.com/tknzk/my-number-kun",
+  "website": "https://github.com/kakipo/my-number-kun",
+  "repository": "https://github.com/kakipo/my-number-kun",
   "env": {
     "CUSTOM_RUBY_VERSION": {
       "description": "Ruby version",
