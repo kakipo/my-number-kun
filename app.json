@@ -1,0 +1,22 @@
+{
+  "name": "MyNumber-kun",
+  "description": "Emulation MyNumber.",
+  "keywords": [
+    "Ruby",
+    "Sinatra"
+  ],
+  "website": "https://github.com/kakipo/my-number-kun",
+  "repository": "https://github.com/kakipo/my-number-kun",
+  "env": {
+    "CUSTOM_RUBY_VERSION": {
+      "description": "Ruby version",
+      "value": "2.4.2"
+    }
+  },
+  "formation": {
+    "web": {
+      "quantity": 1
+    }
+  },
+  "image": "heroku/ruby"
+}
