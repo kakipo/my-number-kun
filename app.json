@@ -10,7 +10,7 @@
   "env": {
     "CUSTOM_RUBY_VERSION": {
       "description": "Ruby version",
-      "value": "2.4.2"
+      "value": "2.6.5"
     }
   },
   "formation": {
