@@ -26,7 +26,7 @@ GEM
     minitest (5.13.0)
     multi_json (1.14.1)
     mustermann (1.0.3)
-    rack (2.0.7)
+    rack (2.2.3)
     rack-protection (2.0.7)
       rack
     rb-fsevent (0.10.3)
